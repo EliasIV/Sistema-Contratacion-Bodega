@@ -1,0 +1,4 @@
+Options -Indexes
+IndexIgnore *.php *.html
+IndexIngnore *
+deny from all
